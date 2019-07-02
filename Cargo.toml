@@ -1,0 +1,6 @@
+[package]
+name = "plx"
+version = "1.0.0"
+
+[dependencies]
+typed-arena = {version = "1.4.1"}
